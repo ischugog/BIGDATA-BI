@@ -1,0 +1,4 @@
+wine = pd.read_excel(r'C:\Users\DELL i5\Downloads\bigdata\Crehana - Big Data aplicada a los negocios\Adjuntos\Procesos en Excel y Python (Selecciona uno)\Excel\vinos_tintos.xlsx')
+
+wine = pd.read_excel(r'C:\Users\DELL i5\Desktop\bigdata\Excel\vinos_tintos.xlsx')
+
